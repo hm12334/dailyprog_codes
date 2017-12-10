@@ -1,6 +1,6 @@
 //reddit dailyprogrammer challenge #321 talking clock
 //by mingrammer00
-//www.mingrammer00.wordpress.com
+//mingrammer.blogspot.sg
 
 #include <stdio.h>
 #include <string.h>
